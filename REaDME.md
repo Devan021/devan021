@@ -119,4 +119,4 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-[![Twitter Follow]()](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTAC)
+[![Twitter Follow]()](https://twitter.com/Devan44027165)
