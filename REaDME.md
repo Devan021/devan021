@@ -110,7 +110,7 @@
 [course]: http://vsCodeHero.com
 [wixsite]: https://devansp2020.wixsite.com/website-1
 [twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://www.youtube.com/channel/UCYICKeKzTqV-w3A4XS1-V2A
+[youtube]: https://www.youtube.com/@devan2783
 [instagram]: https://instagram.com/_devan_d_p
 [linkedin]: https://www.linkedin.com/in/devanandhan-sp-531229256/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
