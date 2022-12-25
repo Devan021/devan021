@@ -4,15 +4,15 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devangi2000.visitor-badge)
 <br/>
 <a href="https://www.linkedin.com/in/devanandhan-sp-531229256/">
-  <img align="left" alt="Devangi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Devani's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/_devana/">
-  <img align="left" alt="Devangi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Devan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="">
   <img align="left" alt="Devan's Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.hackerrank.com/devangipurkayas1/">
+<a href="https://www.hackerrank.com/Luffyy/">
   <img align="left" alt="Devan's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
