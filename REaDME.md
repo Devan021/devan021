@@ -1,5 +1,5 @@
 
-### Hey, I'm [Devangi!](https://devangi2000.github.io)  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+### Hey, I'm [Devan!](https://devan021.github.io)  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devangi2000.visitor-badge)
 <br/>
