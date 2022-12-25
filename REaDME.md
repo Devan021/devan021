@@ -5,7 +5,7 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li>🔭 I’m currently working on <a href="https://towardsdatascience.com/writing-a-command-line-interface-simulation-game-in-under-30-minutes-using-python-239934f34365">Py Game</a>.</li>
 <li>🧐 Learning about <strong>web exploitation</strong>, <strong>distributed systems</strong>, and a bit of <strong>TypeScript</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Devan021">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
