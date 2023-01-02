@@ -22,7 +22,7 @@
 <br />
 
 Hey folks, I'm Devanandhan , a CS undergrad  and Machine Learning / Deep Learning student  🚀.
-I'm proficient in C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
+I'm proficient in C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit.
 I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
 Please feel free to reach out and talk about ideas!
  
@@ -31,9 +31,7 @@ Please feel free to reach out and talk about ideas!
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 💻 I’m a Web Development intern  @Tinkerbell with tremendous passion for Software Development and Artificial Intelligence;
 - 💪 Ask me about Machine Learning, Deep Learning, Computer Vision, Research, Data Structures and Algorithms, Computer Networks, Operating Systems;
-- 💬 Worked as a Software Engineer Intern @Dell Technologies
-- 📚 Worked as an Undergraduate Researcher @Samsung PRISM
-- 🤝 I'd be up for long conversations over coffee about various topics ranging from software development, finance, economics to fitness and fashion;
+- 💬 Worked as a Web Developer Intern @Thinkerbell Labs
 - ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love Grey's Anatomy, Money Heist, running, cooking, coffee and almost everything with a dark theme! I'm also a big-time foodie 
 - 📫 Reach out to me: devansp2020@gmail.com
 
@@ -88,4 +86,4 @@ Please feel free to reach out and talk about ideas!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devan021&theme=onedark&langs_count=8&layout=compact)](https://github.com/devan021/github-readme-stats" />
 </a> -->
 
- 
+ <p align="center"><a href="https://github.com/Devan021/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
