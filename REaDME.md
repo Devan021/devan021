@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/Devan021/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 
 ### Hey, I'm [Devan!](https://devan021.github.io)  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
