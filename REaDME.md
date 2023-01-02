@@ -29,9 +29,8 @@ Please feel free to reach out and talk about ideas!
   
 **More about me:**
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💻 I’m a Web Development intern  @Tinkerbell with tremendous passion for Software Development and Artificial Intelligence;
-- 💪 Ask me about Machine Learning, Deep Learning, Computer Vision, Research, Data Structures and Algorithms, Computer Networks, Operating Systems;
-- 💬 Worked as a Web Developer Intern @Thinkerbell Labs
+- 💻 I’m a Web Development intern  @BWS with tremendous passion for Software Development and Artificial Intelligence;
+- 💬 Worked as a Web Developer Intern @Thinkerbell Labs 
 - ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love Grey's Anatomy, Money Heist, running, cooking, coffee and almost everything with a dark theme! I'm also a big-time foodie 
 - 📫 Reach out to me: devansp2020@gmail.com
 
