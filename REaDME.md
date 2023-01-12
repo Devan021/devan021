@@ -22,7 +22,7 @@
 <br />
 
 Hey folks, I'm Devanandhan , a CS undergrad  and Machine Learning / Deep Learning student  🚀.
-I'm proficient in C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit.
+I'm knowledgable  in C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit.
 I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
 Please feel free to reach out and talk about ideas!
  
