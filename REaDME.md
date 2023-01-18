@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Devanandhan SP!
 <a href='https://www.linkedin.com/in/devanandhan-sp-531229256/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://twitter.com/Devan44027165'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
@@ -43,7 +43,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 📊 Github Stats
-<a href='https://github.com/Devan021/github-stats-transparent'>
+<a href='https://github.com/devan021/github-stats-transparent'>
   
 ![Stats Overview](https://raw.githubusercontent.com/Devan021/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/Devan021/github-stats-transparent/output/generated/languages.svg)
