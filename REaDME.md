@@ -1,88 +1,59 @@
-<p align="center"><a href="https://github.com/Devan021/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+## Hey 👋, I'm Devanandhan SP!
+<a href='https://www.linkedin.com/in/devanandhan-sp-531229256/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 
-### Hey, I'm [Devan!](https://devan021.github.io)  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=devangi2000.visitor-badge)
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
-<a href="https://www.linkedin.com/in/devanandhan-sp-531229256/">
-  <img align="left" alt="Devani's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/_devana/">
-  <img align="left" alt="Devan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Devan's Twitter Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.hackerrank.com/Luffyy/">
-  <img align="left" alt="Devan's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
+<br/>
 
-<br />
-<br />
-
-Hey folks, I'm Devanandhan , a CS undergrad  and Machine Learning / Deep Learning student  🚀.
-I'm knowledgable  in C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit.
-I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
-Please feel free to reach out and talk about ideas!
- 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
-**More about me:**
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💻 I’m a Web Development intern  @BWS with tremendous passion for Software Development and Artificial Intelligence;
-- 💬 Worked as a Web Developer Intern @Thinkerbell Labs 
-- ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love Grey's Anatomy, Money Heist, running, cooking, coffee and almost everything with a dark theme! I'm also a big-time foodie 
-- 📫 Reach out to me: devansp2020@gmail.com
+### 🧐 More About Me:
 
-**Languages and Tools:**  
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flask/flask.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" alt="C" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
-   <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="Keras" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="PyTorch" height="40" style="vertical-align:top; margin:4px">
- </p>
-  </br>
+<br>
+
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+<br>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devan021/github-readme-stats) -->
+### 📊 Github Stats
+<a href='https://github.com/Devan021/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/Devan021/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Devan021/github-stats-transparent/output/generated/languages.svg)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devan021&theme=tokyonight)](https://github.com/devan021)
-  ![Devangi's github stats](https://github-readme-stats.vercel.app/api?username=devan021&count_private=true&show_icons=true&theme=tokyonight)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devan021&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/devan021/github-readme-stats)
-
-
-[![Devangi's github activity graph](https://activity-graph.herokuapp.com/graph?username=devan021&theme=react-dark)](https://github.com/devan021/github-readme-activity-graph)
-<!-- [![Devangi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devangi2000)](https://github.com/devangi2000/github-readme-stats) -->
-
-<p align="center">Show ❤️ by starring and forking repositories you find helpful! </p>
-<p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
-
-⭐️ From [devan](https://github.com/devan021)
-<br/>
-<!-- <a href="https://github.com/devan021/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devansp021&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/devan021/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devan021&theme=onedark&langs_count=8&layout=compact)](https://github.com/devan021/github-readme-stats" />
-</a> -->
 
- <p align="center"><a href="https://github.com/Devan021/"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<br>
+
+### 🛠️ My Projects
+<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
