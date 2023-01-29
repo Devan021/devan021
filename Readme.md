@@ -3,8 +3,6 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Devan44027165.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/Devan44027165)
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/devan44027165" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/devan44027165?logo=twitter&style=for-the-badge" alt="https://twitter.com/devan44027165" /></a> </p>
-
 - 🔭 I’m currently working on [Suvidha](suvidha-jblh8euro-devan021.vercel.app)
 
 - 🌱 I’m currently learning **Angular and Tailwind Frameworks**
