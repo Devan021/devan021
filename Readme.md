@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devanandhan SP</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Devan44027165.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/Devan44027165)
 
 - 🔭 I’m currently working on [Suvidha](suvidha-jblh8euro-devan021.vercel.app)
 
