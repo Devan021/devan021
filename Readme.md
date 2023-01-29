@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [InstagramClone](inst-clone-3jthuvm8e-devan021.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://www.devansp.live/](https://www.devansp.live/)
+- 👨‍💻 All of my projects are available in Portfolio section at [https://www.devansp.live/](https://www.devansp.live/)
 
 - 💬 Ask me about **react , vue and rest**
 
