@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devanandhan SP</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devan021" alt="devan021" /></a> </p>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Devan44027165.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/Devan44027165)
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/devan44027165" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/devan44027165?logo=twitter&style=for-the-badge" alt="https://twitter.com/devan44027165" /></a> </p>
 
