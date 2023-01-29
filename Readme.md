@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **devansp2020@gmail.com**
 
-- ⚡ Fun fact **I think you are funny**
+- ⚡ Fun fact: **I think you are funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
