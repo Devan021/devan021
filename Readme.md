@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on [Suvidha](suvidha-jblh8euro-devan021.vercel.app)
+- 🔭 I’m currently working on [Suvidha](https://github.com/Devan021/suvidha)
 
 - 🌱 I’m currently learning **Angular and Tailwind Frameworks**
 
