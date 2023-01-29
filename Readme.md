@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular and Tailwind Frameworks**
 
-- 👯 I’m looking to collaborate on [InstagramClone](inst-clone-3jthuvm8e-devan021.vercel.app)
+- 👯 I’m looking to collaborate on [InstaClone](inst-clone-3jthuvm8e-devan021.vercel.app)
 
 - 👨‍💻 All of my projects are available in Portfolio section at [https://www.devansp.live/](https://www.devansp.live/)
 
