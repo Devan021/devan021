@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Devanandhan Sp;Full STack Intern)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Devanandhan SP</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
