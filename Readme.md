@@ -7,13 +7,13 @@
 <h1 align="center">Hi 👋, I'm Devanandhan SP</h1>
 
 
-- 🔭 I’m currently working on [Suvidha](https://github.com/Devan021/suvidha)
+- 🔭 I’m currently working on [Suvidha](https://github.com/Devan021/testit)
 
-- 🌱 I’m currently learning **Angular and Tailwind Frameworks**
+- 🌱 I’m currently learning **Data Science  and Nextjs Frameworks**
 
 - 👯 I’m looking to collaborate on [InstaClone](inst-clone-3jthuvm8e-devan021.vercel.app)
 
-- 👨‍💻 All of my projects are available in Portfolio section at [https://www.devansp.live/](https://www.devansp.live/)
+- 👨‍💻 All of my projects are available in Portfolio section at [https://www.devansp.live/](https://mypersonalweb-three.vercel.app/#)
 
 - 💬 Ask me about **react , vue and rest**
 
