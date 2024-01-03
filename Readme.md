@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Devanandhan SP</h1>
 
 
-- 🔭 I’m currently working on [Suvidha](https://github.com/Devan021/testit)
+- 🔭 I’m currently working on [Testit](https://github.com/Devan021/testit)
 
 - 🌱 I’m currently learning **Data Science  and Nextjs Frameworks**
 
