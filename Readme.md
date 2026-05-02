@@ -1,38 +1,69 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building%20AI%20Solutions%20for%20B2B;Simplifying%20Your%20Future%20Ahead;Driving%20Growth%20Through%20Automation;Tailored%20AI%20Strategies%20for%20Success&font=Fira%20Code&center=true&width=440&height=45&color=00a86b&vCenter=true&pause=1000&size=22" />
-</p>
+<div align="center">
 
+# Hey, I'm Devan 👋
 
-<h1 align="center">Hi 👋, I'm Devanandhan SP</h1> <h3 align="center">CEO of Holler Labs | Driving AI-Powered Innovation for Businesses</h3>
+**Founder & CEO @ [Holler Labs](https://hollerlabs.org)** · Building AI infrastructure for businesses
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devansp2020)
+[![X](https://img.shields.io/badge/@devan__s__p-000000?style=flat&logo=x&logoColor=white)](https://x.com/devan_s_p)
+[![Website](https://img.shields.io/badge/hollerlabs.org-18181B?style=flat&logo=safari&logoColor=white)](https://hollerlabs.org)
+[![Email](https://img.shields.io/badge/devansp2020@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devansp2020@gmail.com)
 
-🔭 Currently Working On: Revolutionizing AI Automation and Chatbot Solutions at [Hollerlabs](https://www.linkedin.com/in/company/hollerlabs)
+</div>
 
-🌱 Currently Exploring: Advanced Data Science, Next.js Frameworks, and cutting-edge AI technologies.
+---
 
-👯 Collaborations Open For: Building transformative AI Solutions and next-gen automation projects.
+### About
 
-👨‍💻 Portfolio and Projects: Visit the Holler Labs Website for more insights into our work.
+I run **[Holler Labs](https://hollerlabs.org)** — an AI automation studio that builds intelligent systems for B2B companies. We ship AI agents, voice bots, workflow automation, and custom LLM solutions that drive real business outcomes.
 
-💬 Let’s Chat About: AI Automation, Chatbots, Business Growth Strategies, and Technology Scalability.
+Previously obsessed with data science and full-stack engineering. Now I spend most of my time at the intersection of **AI × product × growth**, helping companies automate what shouldn't be manual.
 
-📫 Get In Touch: Reach out at devansp2020@gmail.com or connect with me on LinkedIn.
+---
 
-⚡ Fun Fact: I believe every challenge is an opportunity to innovate!
+### What I'm building
 
-<h3 align="left">Connect with Me:</h3> <p align="left"> <a href="https://dev.to/devan021" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a> <a href="https://twitter.com/devan44027165" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a> <a href="https://linkedin.com/in/devanandhan-sp-531229256/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> </p>
-<h3 align="left">Technologies and Tools I Work With:</h3> <p align="left"> <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a> <a href="https://nextjs.org" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a> <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a> <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a> <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a> </p>
-<h3 align="left">Support My Work:</h3> <p> <a href="https://www.buymeacoffee.com/devan021"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /> </a> </p>
+- 🏗️ **AI Agent Platforms** — autonomous agents for customer support, sales, and operations
+- 🔊 **Voice AI** — Retell-powered voice bots for outbound/inbound automation
+- ⚡ **Workflow Automation** — n8n, custom pipelines, and API integrations at scale
+- 🧠 **LLM Applications** — RAG systems, fine-tuned models, and intelligent chatbots
 
-### Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Devan021&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devan021&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+---
 
+### Tech I work with
 
+<div align="center">
 
+`Python` · `Next.js` · `React` · `Node.js` · `Django` · `PostgreSQL` · `GCP` · `AWS` · `LangChain` · `n8n`
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.Devan021) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Devan021) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Devan021)
+</div>
 
+---
 
+### Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Devan021&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&hide_rank=true&include_all_commits=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Devan021&show_icons=true&hide_border=true&bg_color=00000000&title_color=1a1a1a&text_color=555555&icon_color=0969da&hide_rank=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devan021&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&hide_rank=true&include_all_commits=true" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Devan021&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&langs_count=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Devan021&layout=compact&hide_border=true&bg_color=00000000&title_color=1a1a1a&text_color=555555&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devan021&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&langs_count=6" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to collaborations on AI products, agent frameworks, and automation infrastructure.*
+
+**Let's build something → [devansp2020@gmail.com](mailto:devansp2020@gmail.com)**
+
+</div>
