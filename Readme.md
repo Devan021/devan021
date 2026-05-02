@@ -2,7 +2,7 @@
 <!-- 🔥 HEADER BANNER — Animated wave gradient with name                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Devanandhan%20SP&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%26%20CEO%20%40%20Holler%20Labs%20%E2%80%A2%20Building%20AI%20Infrastructure&descSize=16&descColor=8b949e&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Devanandhan%20SP&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%C2%B7%20CEO%20%40%20Holler%20Labs%20%E2%80%A2%20Building%20AI%20Infrastructure&descSize=16&descColor=8b949e&descAlignY=55" />
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════ -->
 <!-- ⌨️ TYPING ANIMATION                                                               -->
@@ -35,7 +35,7 @@ I run **[Holler Labs](https://hollerlabs.org)** — an AI automation studio that
 ```yaml
 name: Devanandhan SP
 role: Founder & CEO @ Holler Labs
-location: Thiruvananthapuram, Kerala 🇮🇳
+location: Bengaluru, Karnataka 🇮🇳
 focus: AI Agents • Voice AI • LLM Infrastructure • B2B Automation
 currently_building:
   - Autonomous AI agents for customer support & sales
